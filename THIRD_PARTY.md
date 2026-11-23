@@ -1,12 +1,10 @@
 # 第三方组件与许可说明
 
-依据本版安装包随附的元数据和许可文件整理。元数据或声明中出现的组件可能是运行、类型或构建依赖；此列表不表示每项都会在用户电脑上执行，也不是完整的法律或源码来源审计。
+依据 2.2.15 候选包的元数据及随附声明整理。组件可能是运行、类型或构建依赖；出现不等于实际执行，本表不是完整法律或来源审计。
 
-本次七项自有新增实现的专有许可不覆盖下列组件，亦不撤销既有 MIT 授权。无限画布基础来源为 basketikun，MIT 原文见 [许可](INFINITE-CANVAS-LICENSE.txt)。
+沿用 2.2.14 清单明列的七项新增自有实现的许可边界，不推定 2.2.15 新文件均专有，也不覆盖既有 MIT 或第三方许可。无限画布基础来源为 basketikun，见 [MIT 原文](INFINITE-CANVAS-LICENSE.txt)。
 
-Node.js 运行时、Microsoft WebView2 运行组件及其他原生组件的权利属于各自权利人，具体条款以安装包随附许可及相关运行时条款为准。
-
-## 包元数据中的第三方依赖
+Node.js、Microsoft WebView2 及其他原生组件适用各自许可，具体以随包文件及相关运行时条款为准。
 
 | 组件 | 版本 | 声明许可 | 随附许可 |
 | --- | --- | --- | --- |
@@ -101,9 +99,9 @@ Node.js 运行时、Microsoft WebView2 运行组件及其他原生组件的权�
 | web-streams-polyfill | 3.3.3 | MIT | [原文1](licenses/dependencies/web-streams-polyfill@3.3.3/LICENSE) |
 | ws | 8.22.0 | MIT | [原文1](licenses/dependencies/ws@8.22.0/LICENSE) |
 
-## 前端及基础许可汇总中的声明
+## 前端及基础声明
 
-原始版权及条款见 [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt)。JSZip 随附 MIT/GPL 双许可文本；包含该文本不表示整个客户端采用 GPL。
+版权与许可全文见 [汇总](THIRD_PARTY_LICENSES.txt)。JSZip 的 MIT/GPL 双许可文本不表示整个客户端采用 GPL。
 
 | 组件 | 版本 | 原许可文件名 |
 | --- | --- | --- |
