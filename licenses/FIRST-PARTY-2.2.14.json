@@ -1,0 +1,17 @@
+{
+  "version": "2.2.14",
+  "copyright": "Copyright (c) 2026 davieron",
+  "license": "Proprietary for listed newly-created first-party implementations only",
+  "paths": [
+    "server/skill-files.mjs",
+    "server/skill-turns.mjs",
+    "server/latest-checkpoint.mjs",
+    "ui/src/record-edit.mjs",
+    "ui/src/account-wallet.mjs",
+    "ui/src/AccountWalletBalance.tsx",
+    "ui/src/LicenseNotices.tsx"
+  ],
+  "previousMITAndThirdPartyNoticesRetained": true,
+  "noRetroactiveRevocation": true,
+  "modifiedBaselineFilesNotRelicensedByThisList": true
+}
